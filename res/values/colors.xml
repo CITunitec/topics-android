@@ -8,4 +8,5 @@
 	<color name="opaque_back">#DD000000</color>
 	<color name="SrDroidBlue">#3388FF</color>
 	<color name="Red">#FF2222</color>
+	<color name="lightGray">#BBBBBB</color>
 </resources>
